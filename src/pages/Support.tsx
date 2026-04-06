@@ -8,7 +8,7 @@ const Support = () => {
   const navigate = useNavigate();
 
   const handleLiveChatClick = () => {
-    window.open('https://t.me/Redpayagent1', '_blank');
+    window.open('t.me/aomen23965', '_blank');
   };
 
   return (
@@ -37,7 +37,7 @@ const Support = () => {
             </div>
             <Button 
               className="w-full mt-4 bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 py-3 text-sm font-semibold rounded-xl shadow-md transition-all duration-200"
-              onClick={() => window.open('mailto: redpay313@gnail.com')}
+              onClick={() => window.open('mailto: bluepaycompanylimited001@gmail.com')}
             >
               Send Email
             </Button>
