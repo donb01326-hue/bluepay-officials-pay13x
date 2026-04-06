@@ -13,7 +13,7 @@ const Platform = () => {
   };
   
   const handleJoinWhatsapp = () => {
-    window.open("https://chat.whatsapp.com/BCx4FM0AWqDAtXKWhKjp3G?mode=gi_t", "_blank");
+    window.open("https://chat.whatsapp.com/FXjprV4Gmy3EqOCz54ipd9?mode=gi_t", "_blank");
   };
 
   return (
