@@ -8,7 +8,8 @@ const Support = () => {
   const navigate = useNavigate();
 
   const handleLiveChatClick = () => {
-    window.open('t.me/aomen23965', '_blank');
+    window.open('https://t.me/aomen23965', '_blank');
+  };
   };
 
   return (
